@@ -1,0 +1,35 @@
+
+@import url("components/card.css");
+
+@import url("https://fonts.googleapis.com/css?family=Ubuntu:400,500,700&display=swap");
+
+
+@import url("components/banner.css");
+@import url("components/container.css");
+
+@import url("components/button.css");
+@import url("components/avatar.css");
+
+@import url("components/presentation-petitewidth.css");
+
+
+h1, h2, h3 {
+	font-family: 'Ubuntu', sans-serif;
+}
+
+p {
+	text-align: center;
+	color:white;
+}
+
+a {
+	text-decoration: none;
+}
+
+body {	
+    margin:0px;
+    background-color: #0e0e0e;
+    color:white;
+    font-family: 'Ubuntu', sans-serif;
+    text-align: center;
+}

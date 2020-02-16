@@ -1,0 +1,14 @@
+.bouton-noir {
+	background: black;
+    color: white;
+    padding: 13px 63px;   
+    border-radius: 3px;
+    border:solid 0.5px;
+    font-size: 18px;
+}
+
+.bouton-noir:hover {
+    background: white;
+    transition: background .5s ease;
+    color: black;
+}
